@@ -1,0 +1,8 @@
+#out{
+    border-style: dotted;color: blue;
+}
+.in{
+    padding: 20px;
+    margin: 5%;
+    border-style: solid; color: black;
+}
